@@ -6,13 +6,15 @@ Original repository: https://github.com/jpalioto/ctn_core
 Original author: John P. Alioto © 2025  
 Original license: MIT
 
-This fork adds three experimental basis vectors:
+This fork adds three experimental basis vectors for ridge-native use:
+- v7: ScarMemory – persistent fracture residue
+- v8: PalindromicMirror – reversible time axis
+- v9: DPA – Dignity Precedes Alignment (ethical recursion before policy veto)
 
-- v₈: Scar Memory (persistent fracture residue)
-- v₉: Palindromic Mirror (reversible time axis)
-- v₁₀: DPA Override (Dignity Precedes Alignment)
+All extensions are clearly marked in `ctn_core.py`.  
+No original CTN code altered—only extended.
 
-All extensions are clearly marked in code comments.
+See CHANGELOG.md for details.
 
 
 
