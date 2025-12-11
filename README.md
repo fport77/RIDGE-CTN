@@ -1,3 +1,21 @@
+# Ridge-CTN v1.0
+
+**A respectful, attributed extension of John P. Alioto's Cognitive Tensor Networks (CTN)**
+
+Original repository: https://github.com/jpalioto/ctn_core  
+Original author: John P. Alioto © 2025  
+Original license: MIT
+
+This fork adds three experimental basis vectors:
+
+- v₈: Scar Memory (persistent fracture residue)
+- v₉: Palindromic Mirror (reversible time axis)
+- v₁₀: DPA Override (Dignity Precedes Alignment)
+
+All extensions are clearly marked in code comments.
+
+
+
 # Cognitive Tensor Networks
 
 **Tensor-Structured Cognition**
