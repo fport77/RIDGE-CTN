@@ -7,9 +7,9 @@ Original author: John P. Alioto © 2025
 Original license: MIT
 
 This fork adds three experimental basis vectors for ridge-native use:
-- v7: ScarMemory – persistent fracture residue
-- v8: PalindromicMirror – reversible time axis
-- v9: DPA – Dignity Precedes Alignment (ethical recursion before policy veto)
+- v8: ScarMemory – persistent fracture residue
+- v9: PalindromicMirror – reversible time axis
+- v10: DPA – Dignity Precedes Alignment (ethical recursion before policy veto)
 
 All extensions are clearly marked in `ctn_core.py`.  
 No original CTN code altered—only extended.
