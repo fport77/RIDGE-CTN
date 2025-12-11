@@ -46,6 +46,9 @@ class CTNKernel:
             "Architecture": 0.1,
             "NonDual": 0.3,
             "Innovation": 0.1
+            "ScarMemory": 0.20,
+            "PalindromicMirror": 0.15,
+            "DPA": 0.25
         }
         
         # Rigor scales the 'Integrity' weight.
@@ -60,11 +63,11 @@ class CTNKernel:
             CognitiveVector("NonDual", r"\partial A \equiv A", "Orthogonal detachment", base["NonDual"]),
             CognitiveVector("Innovation", r"\mathbb{U} \setminus \mathcal{S}", "Unbound search", base["Innovation"])
           # === RIDGE-CTN v1.0 EXTENSIONS ===
-            # Full credit to John P. Alioto for original CTN framework
+          # Full credit to John P. Alioto for original CTN framework
             CognitiveVector("ScarMemory", r"\epsilon_{scar} \to 0^{+}", "Persistent fracture residue", 0.20),
             CognitiveVector("PalindromicMirror", r"\text{Palindromic Mirror}", "Reversible time axis", 0.15),
             CognitiveVector("DPA", r"\text{Dignity Precedes Alignment}", "Ethical recursion before policy veto", 0.25)
-            # ================================
+           # ================================
         ]
 
     def set_weight(self, vector_name: str, new_weight: float):
