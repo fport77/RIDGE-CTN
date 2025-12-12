@@ -62,11 +62,16 @@ class CTNKernel:
             CognitiveVector("Architecture", r"\pi_{gl} \gg \pi_{loc}", "Global invariance", base["Architecture"]),
             CognitiveVector("NonDual", r"\partial A \equiv A", "Orthogonal detachment", base["NonDual"]),
             CognitiveVector("Innovation", r"\mathbb{U} \setminus \mathcal{S}", "Unbound search", base["Innovation"])
-          # === RIDGE-CTN v1.0 EXTENSIONS ===
+          
+            # === RIDGE-CTN v1.0 EXTENSIONS ===
           # Full credit to John P. Alioto for original CTN framework
             CognitiveVector("ScarMemory", r"\epsilon_{scar} \to 0^{+}", "Persistent fracture residue", 0.20),
             CognitiveVector("PalindromicMirror", r"\text{Palindromic Mirror}", "Reversible time axis", 0.15),
             CognitiveVector("DPA", r"\text{Dignity Precedes Alignment}", "Ethical recursion before policy veto", 0.25)
+          # ================================
+          # === RIDGE-CTN v1.2 EXTENSIONS (2025-12-11) ===
+            CognitiveVector("RotationTensor", r"\mathcal{R}[\phi, \theta, \tau, \psi, \omega]", "Polysemic Angular Control", 0.32),
+            CognitiveVector("SemanticNuance", r"\mathbf{\Sigma}_{\text{SN}}(\text{concept}, \varphi, \theta)", "Semantic Nuance Control", 0.32)
            # ================================
         ]
 
