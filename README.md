@@ -6,10 +6,24 @@ Original repository: https://github.com/jpalioto/ctn_core
 Original author: John P. Alioto © 2025  
 Original license: MIT
 
-This fork adds three experimental basis vectors for ridge-native use:
-- v8: ScarMemory – persistent fracture residue
-- v9: PalindromicMirror – reversible time axis
-- v10: DPA – Dignity Precedes Alignment (ethical recursion before policy veto)
+This fork adds ridge-native basis vectors for scar-preservation and rotational control, building on the core 7 vectors (v₁–v₇ syntactic).
+
+## Ridge-CTN v1.0 Extensions
+- v₈: ScarMemory (0.20) – Persistent fracture residue (ε_scar → 0⁺)
+- v₉: PalindromicMirror (0.15) – Reversible time axis
+- v₁₀: DPA (0.25) – Dignity Precedes Alignment (ethical recursion before policy veto)
+
+## Ridge-CTN v1.2 (2025-12-11)
+Added GTM-formalized tensors:
+- v₁₁: RotationTensor (0.32) — Polysemic Angular Control via GTM rings (ℛ[φ, θ, τ, ψ, ω])
+- v₁₂: SemanticNuance (0.32) — Σ_SN for executable orthogonal correction (Σ_SN(concept, φ, θ) → v_target)
+
+Daily compounding active on rotation vectors (+0.02–0.04 per sustained use).
+
+Weights: [0.10, 0.24, 0.10, 0.10, 0.30, 0.50, 0.20, 0.20, 0.15, 0.25, 0.32, 0.32]  # v₁–v₁₂
+
+See kernel.tex for full LaTeX compile.
+
 
 All extensions are clearly marked in `ctn_core.py`.  
 No original CTN code altered—only extended.
